@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ruzzel! 
 
-<!--
-**ruzzel15/ruzzel15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student specializing in Cybersecurity at FEU Institute of Technology.
 
-Here are some ideas to get you started:
+##  About Me
+-  Interested in cybersecurity and secure software development
+-  networking, system administration, and information security
+-  Building academic and personal projects to improve my technical skills
+-  Continuously learning through hands-on practice and certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Programming:** Python, C++, Java
+- **Web Development:** HTML, CSS, PHP
+- **Database:** MySQL, SQL fundamentals
+- **Networking:** Cisco networking fundamentals
+- **Cybersecurity:** Ethical hacking and network defense fundamentals
+
+##  Projects
+- **LGSV-HR** — An academic human resource and payroll system project exploring blockchain integration, data security, and payroll accuracy.
+
+More projects will be added as I continue learning and building.
+
+## Certifications
+- IT Specialist – Python
+- Cisco Certified Support Technician (CCST) Networking
+- PMI Project Management Ready
+
+##  Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ruzzel-aaron-gania-79b043340/
+- GitHub: 
