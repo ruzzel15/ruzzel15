@@ -27,4 +27,4 @@ More projects will be added as I continue learning and building.
 
 ##  Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ruzzel-aaron-gania-79b043340/
-- GitHub: 
+- GitHub: https://github.com/ruzzel15
